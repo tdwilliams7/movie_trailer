@@ -7,15 +7,13 @@ toy_story = media.Movie("Toy Story",
                         "a story of a boy and his toys that come to life",
                         "http://www.impawards.com/1995/posters/toy_story_ver1.jpg",
                         "https://www.youtube.com/watch?v=vwyZH85NQC4")
-#print (toy_story.storyline)
 
 
 avatar = media.Movie("Avatar",
                      "A marine on an Alien Planet.",
                      "https://www.movieposter.com/posters/archive/main/98/MPW-49433",
                      "https://www.youtube.com/watch?v=cRdxXPV9GNQ")
-#print (avatar.trailer_youtube_url)
-#avatar.Show_trailer()
+
 
 guardians = media.Movie("Guardians of the Galaxy",
                         "A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe.",
