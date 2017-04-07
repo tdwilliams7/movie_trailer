@@ -39,6 +39,6 @@ kong = media.Movie ("Kong Skull Island",
 
 movies = [toy_story, avatar, guardians, colossal, rogue, kong]
 fresh_tomatoes.open_movies_page(movies)
-print (media.Movie.VALID_RATINGS)
+
 
 
