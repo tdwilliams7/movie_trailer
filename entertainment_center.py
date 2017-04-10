@@ -19,7 +19,6 @@ guardians = media.Movie("Guardians of the Galaxy",
                         "A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe.",
                         'http://www.mtv.com/crop-images/2014/02/20/Guardians-of-the-Galaxy-Poster.jpg',
                         "https://www.youtube.com/watch?v=maIEaTm5gBE")
-#guardians.Show_trailer()
 
 colossal = media.Movie ("Colossal",
                         "Anne Hathaway plays a burned-out party girl navigating life back in her hometown…just as a giant monster appears in South Korea mimicking her movements thousands of miles away.",
