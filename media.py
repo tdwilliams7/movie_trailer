@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import webbrowser
 
-class Movie() :
+class Movie(object) :
     """ this class store movie information"""
     
     VALID_RATINGS = ["g","pg","pg-13","r"]
